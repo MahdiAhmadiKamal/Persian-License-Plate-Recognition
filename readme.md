@@ -1,8 +1,8 @@
 # Persian License Plate Recognition 🔎🚘🚔🚖
 
 
-<img src="pics\img3.jpg" width="500">
-<img src="pics\img4.jpg" width="500">
+<img src="pics\img3.jpg" width="600">
+<img src="pics\img4.jpg" width="600">
 
 The initial part of this project involves using [deep-text-recognition-benchmark](https://github.com/clovaai/deep-text-recognition-benchmark) repository. First, the demo part is run, showing the capabilities of this repository. Then, it is examined whether English and Persian hand-writing text images and license plate images can be recognized correctly or not.
 
